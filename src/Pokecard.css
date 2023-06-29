@@ -1,0 +1,31 @@
+.card{
+    border-radius: 20px;
+}
+
+.card-img{
+    padding: 1rem;
+    height: 50%;
+}
+.card-img-top{
+    width: auto;
+    height: 100%;
+}
+
+.card-body{
+    max-height: 50%;
+}
+
+.card-text{
+    color: #383298;
+    width: max-content;
+    background-color: #ffce31;
+    margin: 0 auto;
+    padding: 5px 14px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.Pokecard-type{
+    height: 20px;
+    vertical-align: bottom;
+}
